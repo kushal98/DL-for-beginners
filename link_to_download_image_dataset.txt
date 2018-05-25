@@ -1,0 +1,7 @@
+Its an AWS S3 bucket link to download the dataset and it also contains the CSV files :
+
+https://s3-ap-southeast-1.amazonaws.com/he-public-data/DL%23+Beginner.zip
+
+Its a torrent link to download the dataset and it also contains the CSV files :
+
+https://s3-ap-southeast-1.amazonaws.com/he-public-data/DL%23+Beginner.torrent
